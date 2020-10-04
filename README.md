@@ -1,2 +1,2 @@
 # Ruby
-Ruby projects and exercises
+Ruby projects and exercises.
