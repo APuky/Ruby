@@ -1,5 +1,5 @@
 #There is no exception handling in this version, so you better not mistyep your input.
-
+#Oh, and one of you better win, there is no draw handling in here.
 
 #creates the table
 def board(array)
